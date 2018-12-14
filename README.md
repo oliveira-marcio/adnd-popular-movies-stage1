@@ -10,7 +10,7 @@ Ao clicar no poster de um filme, o usuário poderá ver mais detalhes do mesmo c
 - Média das avaliações dos usuários
 - Total de avaliações dos usuários
 
-O app utiliza apenas componentes nativos do framework Android como `Loader`, `HttpURLConnection`, `InputStream`, `JSONObject`, entre outros.
+O app utiliza a biblioteca [Picasso](http://square.github.io/picasso/) para obtenção e cache das imagens e componentes nativos do framework Android para as demais funcionalidades, como `Loader`, `HttpURLConnection`, `InputStream`, `JSONObject`, entre outros.
 
 **OBS:** A segunda etapa do projeto pode ser acessada [aqui](https://github.com/oliveira-marcio/adnd-popular-movies-stage2).
 
