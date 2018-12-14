@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Filmes Populares</string>
+    <string name="details_name">Detalhes do Filme</string>
+
+    <!-- labels do Options Menu -->
+    <string name="option_title">Ordenar por...</string>
+    <string name="action_popular">Mais populares</string>
+    <string name="action_top_rated">Melhores avaliados</string>
+
+    <!-- Chaves para o SharedPreferences -->
+    <string name="settings_shared_preferences" translatable="false">settings</string>
+    <string name="settings_sort_order" translatable="false">sort_order</string>
+
+    <!-- Mensagens de erro a serem exibidas na tela principal -->
+    <string name="no_movies">Nenhum filme encontrado.</string>
+    <string name="no_internet_connection">Não há conexão internet.</string>
+
+</resources>
