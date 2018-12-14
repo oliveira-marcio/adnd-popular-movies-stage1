@@ -25,4 +25,4 @@ O app utiliza apenas componentes nativos do framework Android como `Loader`, `Ht
 
 ## Copyright
 
-Esse projeto foi desenvolvido por Márcio Souza de Oliveira em 31/08/2016.
+Esse projeto foi desenvolvido por Márcio Souza de Oliveira em 09/02/2017.
